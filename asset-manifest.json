@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/khushigarlics/static/js/main.f9eaf7a3.js",
+    "main.css": "/khushigarlics/static/css/main.d5289b2f.css",
+    "main.js": "/khushigarlics/static/js/main.1da359dc.js",
     "index.html": "/khushigarlics/index.html",
-    "main.f9eaf7a3.js.map": "/khushigarlics/static/js/main.f9eaf7a3.js.map"
+    "main.d5289b2f.css.map": "/khushigarlics/static/css/main.d5289b2f.css.map",
+    "main.1da359dc.js.map": "/khushigarlics/static/js/main.1da359dc.js.map"
   },
   "entrypoints": [
-    "static/js/main.f9eaf7a3.js"
+    "static/css/main.d5289b2f.css",
+    "static/js/main.1da359dc.js"
   ]
 }
