@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/fenilht23/khushigarlics/static/js/main.f9eaf7a3.js",
-    "index.html": "/fenilht23/khushigarlics/index.html",
-    "main.f9eaf7a3.js.map": "/fenilht23/khushigarlics/static/js/main.f9eaf7a3.js.map"
+    "main.js": "/khushigarlics/static/js/main.f9eaf7a3.js",
+    "index.html": "/khushigarlics/index.html",
+    "main.f9eaf7a3.js.map": "/khushigarlics/static/js/main.f9eaf7a3.js.map"
   },
   "entrypoints": [
     "static/js/main.f9eaf7a3.js"
